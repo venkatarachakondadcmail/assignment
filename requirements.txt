@@ -1,2 +1,6 @@
-streamlit==1.14.0
+streamlit
+pandas
+streamlit_authenticator
 psycopg2
+joblib
+st_pages
